@@ -1,3 +1,5 @@
+# Project 507_groupProject_2025
+
 ## Database Connection and Data Exploration
 
 This document outlines the steps I followed to set up my Python environment, connect to the MySQL database, and explore the `research_experiment_refactor_test` table.
